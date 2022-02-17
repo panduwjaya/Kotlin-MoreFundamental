@@ -7,7 +7,7 @@ fun main() {
 
     //how to show all content of array
     val numbers = arrayOf(1,2,3,4)
-//    print(numbers)//show memory addres of the array
+//    print(numbers)//show memory addres of the array variabel
 //    print(numbers.contentToString())//show all content of the array
 
     //how to show every single item from content of array

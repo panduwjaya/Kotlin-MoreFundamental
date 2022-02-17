@@ -1,5 +1,12 @@
 package com.example.kotlindatastructure
 
+//diferent betwen list and array
+/**
+ * in array not mutable,but in list is mutable
+ * data can increase or dicrease
+ * list is nullable and can be modified
+ */
+
 fun main() {
     val months = listOf("January","february","march")
     val anyType = listOf(1,2,3,true,false,"String")
